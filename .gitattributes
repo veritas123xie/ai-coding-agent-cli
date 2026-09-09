@@ -1,0 +1,2 @@
+# 统一使用 LF（适合跨平台项目）
+* text=auto eol=lf
